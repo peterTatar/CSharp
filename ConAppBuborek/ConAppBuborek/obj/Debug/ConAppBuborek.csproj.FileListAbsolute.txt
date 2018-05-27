@@ -1,0 +1,7 @@
+C:\Users\Tatár Péter\source\repos\ConAppBuborek\ConAppBuborek\obj\Debug\ConAppBuborek.csprojResolveAssemblyReference.cache
+C:\Users\Tatár Péter\source\repos\ConAppBuborek\ConAppBuborek\obj\Debug\ConAppBuborek.csproj.CoreCompileInputs.cache
+C:\Users\Tatár Péter\source\repos\ConAppBuborek\ConAppBuborek\bin\Debug\ConAppBuborek.exe.config
+C:\Users\Tatár Péter\source\repos\ConAppBuborek\ConAppBuborek\bin\Debug\ConAppBuborek.exe
+C:\Users\Tatár Péter\source\repos\ConAppBuborek\ConAppBuborek\bin\Debug\ConAppBuborek.pdb
+C:\Users\Tatár Péter\source\repos\ConAppBuborek\ConAppBuborek\obj\Debug\ConAppBuborek.exe
+C:\Users\Tatár Péter\source\repos\ConAppBuborek\ConAppBuborek\obj\Debug\ConAppBuborek.pdb

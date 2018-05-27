@@ -1,0 +1,7 @@
+C:\Users\Tatár Péter\source\repos\ConAppBeszRend\ConAppBeszRend\bin\Debug\ConAppBeszRend.exe.config
+C:\Users\Tatár Péter\source\repos\ConAppBeszRend\ConAppBeszRend\bin\Debug\ConAppBeszRend.exe
+C:\Users\Tatár Péter\source\repos\ConAppBeszRend\ConAppBeszRend\bin\Debug\ConAppBeszRend.pdb
+C:\Users\Tatár Péter\source\repos\ConAppBeszRend\ConAppBeszRend\obj\Debug\ConAppBeszRend.csprojResolveAssemblyReference.cache
+C:\Users\Tatár Péter\source\repos\ConAppBeszRend\ConAppBeszRend\obj\Debug\ConAppBeszRend.csproj.CoreCompileInputs.cache
+C:\Users\Tatár Péter\source\repos\ConAppBeszRend\ConAppBeszRend\obj\Debug\ConAppBeszRend.exe
+C:\Users\Tatár Péter\source\repos\ConAppBeszRend\ConAppBeszRend\obj\Debug\ConAppBeszRend.pdb

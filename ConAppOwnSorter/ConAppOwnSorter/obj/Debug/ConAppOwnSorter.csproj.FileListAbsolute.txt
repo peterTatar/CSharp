@@ -1,0 +1,7 @@
+C:\Users\Tatár Péter\source\repos\ConAppOwnSorter\ConAppOwnSorter\bin\Debug\ConAppOwnSorter.exe.config
+C:\Users\Tatár Péter\source\repos\ConAppOwnSorter\ConAppOwnSorter\bin\Debug\ConAppOwnSorter.exe
+C:\Users\Tatár Péter\source\repos\ConAppOwnSorter\ConAppOwnSorter\bin\Debug\ConAppOwnSorter.pdb
+C:\Users\Tatár Péter\source\repos\ConAppOwnSorter\ConAppOwnSorter\obj\Debug\ConAppOwnSorter.csprojResolveAssemblyReference.cache
+C:\Users\Tatár Péter\source\repos\ConAppOwnSorter\ConAppOwnSorter\obj\Debug\ConAppOwnSorter.csproj.CoreCompileInputs.cache
+C:\Users\Tatár Péter\source\repos\ConAppOwnSorter\ConAppOwnSorter\obj\Debug\ConAppOwnSorter.exe
+C:\Users\Tatár Péter\source\repos\ConAppOwnSorter\ConAppOwnSorter\obj\Debug\ConAppOwnSorter.pdb

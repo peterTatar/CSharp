@@ -1,0 +1,7 @@
+C:\Users\Tatár Péter\source\repos\ConAppMinKivalRend\ConAppMinKivalRend\bin\Debug\ConAppMinKivalRend.exe.config
+C:\Users\Tatár Péter\source\repos\ConAppMinKivalRend\ConAppMinKivalRend\bin\Debug\ConAppMinKivalRend.exe
+C:\Users\Tatár Péter\source\repos\ConAppMinKivalRend\ConAppMinKivalRend\bin\Debug\ConAppMinKivalRend.pdb
+C:\Users\Tatár Péter\source\repos\ConAppMinKivalRend\ConAppMinKivalRend\obj\Debug\ConAppMinKivalRend.csprojResolveAssemblyReference.cache
+C:\Users\Tatár Péter\source\repos\ConAppMinKivalRend\ConAppMinKivalRend\obj\Debug\ConAppMinKivalRend.csproj.CoreCompileInputs.cache
+C:\Users\Tatár Péter\source\repos\ConAppMinKivalRend\ConAppMinKivalRend\obj\Debug\ConAppMinKivalRend.exe
+C:\Users\Tatár Péter\source\repos\ConAppMinKivalRend\ConAppMinKivalRend\obj\Debug\ConAppMinKivalRend.pdb
